@@ -124,20 +124,6 @@ The model provides insights that can help hotels:
 
 ---
 
-## 📎 Project Deliverables  
-- Jupyter Notebook  
-- Final Report (PDF)  
-- Presentation (PDF)  
-- Dashboard  
-
----
-
-## 🌟 Future Improvements  
-- Use advanced models (XGBoost, Deep Learning)  
-- Deploy model using FastAPI  
-- Build interactive dashboard (Power BI / Streamlit)  
-
----
 
 ## 🙌 Acknowledgement  
 This project was completed as part of my internship at Aptura Tech Solutions, where I gained practical experience in Machine Learning and data analysis.
